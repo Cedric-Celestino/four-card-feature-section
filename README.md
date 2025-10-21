@@ -36,8 +36,8 @@ Users should be able to:
 ![Screenshot of Mobile Resolution](image.png)
 
 ### Links
-  
-- **Live Site URL:** [Add live site URL here](https://cedric-celestino.github.io/four-card-feature-section/)
+
+- **Live Site URL:** [Four Card Feauture Section](https://cedric-celestino.github.io/four-card-feature-section/)
 
 ---
 
